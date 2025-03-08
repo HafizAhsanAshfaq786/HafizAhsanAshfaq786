@@ -42,10 +42,9 @@
 
 ## 📊 GitHub Contributions & Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourActualGitHubUsername&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourActualGitHubUsername&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourActualGitHubUsername&theme=radical" alt="GitHub Profile Summary"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=radical" alt="GitHub Profile Summary"/>
 
 ---
 
