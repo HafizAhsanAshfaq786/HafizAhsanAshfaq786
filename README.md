@@ -12,9 +12,9 @@
 🔬 **Computational Biology | Business Intelligence | Machine Learning & AI**  
 🦠 **Microbiology | Forensic Sciences**
 
+## 📊 Data Science Workflow
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*H1A_6x-F7rGhquXaa-dBOg.gif" width="400" alt="AI Data Science"/>
-  <img src="https://camo.githubusercontent.com/06f5e68ff3e9cb7f7c8a32eb93f483f402c0c6a7d0c9f4a9f21c206f8f708f19/68747470733a2f2f6d6f6869742e62652f696d672f646174615f736369656e63655f636f6d70696c65725f636f64696e675f636f6d70757465725f736369656e63655f776f726b666c6f772e676966" width="400" alt="Data Science Workflow"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQFYf4aHF_UbPg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1697549100439?e=2147483647&v=beta&t=J3Gf_dtD5FZN7FWE6K3rUH67T43ZvRWRJvKQ4XdFth8" width="600" alt="Data Science Workflow"/>
 </p>
 
 ---
